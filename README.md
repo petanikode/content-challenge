@@ -16,7 +16,7 @@ Yuk nulis mulai dari sekarang!
 
 - Tulisan kamu akan berpotensi dibaca oleh 100rb+ programmer indonesia;
 - Tulisanmu bisa jadi portfolio untuk personal branding;
-- Kamu akan dapat reward menarik jika tulisanmu bisa terbit di Petani Kode;
+- Kamu akan dapat reward swag menarik jika tulisanmu bisa terbit di Petani Kode;
 - Kamu akan dibimbing menulis konten sesuai standar Petani Kode.
 - Networking dengan author Petani Kode dan peserta challenge
 
@@ -25,7 +25,7 @@ Yuk nulis mulai dari sekarang!
 1. Topik artikel seputar: coding, programming, programmer, IT, dan topik yang masih terkait;
 2. Panjang artikel minimal 800 kata, maksimal bebas. Semakin panjang semakin bagus;
 3. Disarankan untuk melengkapi artikel dengan *image*, *chart*, *tabel*, ataupun *video yang relevan* dengan topik yang kamu bahas.
-4. 
+4. Tulisan original karyamu sendiri, bukan hasil copas dan belum pernah diterbitkan di media manapun.
 
 
 # Siap untuk Menulis?
