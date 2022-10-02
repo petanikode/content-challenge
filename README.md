@@ -16,6 +16,7 @@ Yuk nulis mulai dari sekarang!
 
 - Tulisan kamu akan berpotensi dibaca oleh 100rb+ programmer indonesia;
 - Tulisanmu bisa jadi portfolio untuk personal branding;
+- Profilemu akan tampil di halaman: https://www.petanikode.com/authors/
 - Kamu akan dapat reward swag menarik jika tulisanmu bisa terbit di Petani Kode;
 - Kamu akan dibimbing menulis konten sesuai standar Petani Kode.
 - Networking dengan author Petani Kode dan peserta challenge
