@@ -27,15 +27,24 @@ Yuk nulis mulai dari sekarang!
 3. Disarankan untuk melengkapi artikel dengan *image*, *chart*, *tabel*, ataupun *video yang relevan* dengan topik yang kamu bahas.
 4. Tulisan original karyamu sendiri, bukan hasil copas dan belum pernah diterbitkan di media manapun.
 
+# Contoh Ide Topik Tulisan
+
+- Tutorial membuat landing page dengan Tailwind
+- Tutorial membuat Dark Theme dengan Tailwind
+- Membuat Aplikasi TODO List dengan Reactjs
+- 7 Tips cara mengatur waktu sebagai programmer freelance
+- 9 Hal yang Harus dipelajari Frontend Developer
+- dll.
 
 # Siap untuk Menulis?
 
 Berikut ini alur submit konten ke Petani Kode:
 
-1. Tulis artikelmu di Google Docs dan pastikan bisa diakses oleh publik;
-2. Submit link Google Docs yang kamu tulis ke Form ini;
-3. Tim dari Petani Kode akan melakukan review dan memberikan feedback di Google Docs;
-4. Tim dari Petani Kode akan memutuskan tulisanmu apakah layak untuk diterbitkan di Petani Kode
-5. Jika tulisan belum layak, kamu bisa update dan improve tulisanmu.
+1. Daftar untuk ikut challenge di sini:
+2. Tulis artikelmu di Google Docs dan pastikan bisa diakses oleh publik;
+3. Submit link Google Docs yang kamu tulis ke Form ini;
+4. Tim dari Petani Kode akan melakukan review dan memberikan feedback di Google Docs;
+5. Tim dari Petani Kode akan memutuskan tulisanmu apakah layak untuk diterbitkan di Petani Kode
+6. Jika tulisan belum layak, kamu bisa update dan improve tulisanmu.
 
-Note: Link Group Telegram akan kamu dapatkan saat melakukan submit artikel
+Note: Link Group Telegram akan kamu dapatkan saat mendaftar challenge.
