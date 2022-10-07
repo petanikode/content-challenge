@@ -10,6 +10,8 @@ Untuk saat ini:
 
 ```
 Reward terbatas untuk 10 orang, siapa cepat dia dapat!
+
+Traktiran ticket idsecconf 2022 (khusus untuk tim intern Petani Kode)
 ```
 
 Yuk nulis mulai dari sekarang!
