@@ -1,4 +1,6 @@
-# Petani Kode Content Challenge
+# Petani Kode Content Writing Challenge
+
+![](https://repository-images.githubusercontent.com/540814997/720b53aa-b0eb-44f3-9d5b-1bbd17fbb3a1)
 
 Tulis 3 artikel, lalu pubilsh di Petani Kode, dan dapatkan reward berupa Swag dari Petani Kode.
 
