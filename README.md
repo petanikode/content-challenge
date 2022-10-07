@@ -53,3 +53,7 @@ Berikut ini alur submit konten ke Petani Kode:
 6. Jika tulisan belum layak, kamu bisa update dan improve tulisanmu.
 
 Note: Link Group Telegram akan kamu dapatkan saat mendaftar challenge.
+
+# Punya pertanyaan?
+
+Sampaikan melalui [issues repository ini](https://github.com/petanikode/content-challenge/issues).
