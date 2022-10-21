@@ -45,7 +45,7 @@ Yuk nulis mulai dari sekarang!
 
 Berikut ini alur submit konten ke Petani Kode:
 
-1. Daftar untuk ikut challenge di sini:
+1. Daftar untuk ikut challenge di sini: https://tally.so/r/wAr7le
 2. Tulis artikelmu di Google Docs dan pastikan bisa diakses oleh publik;
 3. Submit link Google Docs yang kamu tulis ke Form ini;
 4. Tim dari Petani Kode akan melakukan review dan memberikan feedback di Google Docs;
