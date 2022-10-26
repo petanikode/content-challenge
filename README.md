@@ -16,7 +16,7 @@ Traktiran ticket idsecconf 2022 (khusus untuk tim intern Petani Kode)
 
 Yuk nulis mulai dari sekarang!
 
-# Manfaat Ikut Challenge
+## 😍 Manfaat Ikut Challenge
 
 - Tulisan kamu akan berpotensi dibaca oleh 100rb+ visitor petanikode;
 - Tulisanmu bisa jadi portfolio dan personal branding;
@@ -25,21 +25,21 @@ Yuk nulis mulai dari sekarang!
 - Kamu akan dibimbing menulis konten sesuai standar Petani Kode.
 - Networking dengan author Petani Kode dan peserta challenge
 
-# Rewards
+## 🎁 Rewards
 
 - 3 artikel: Kaos & Sticker Petani Kode
 - 5 artikel: Tiket idsecconf (khusus untuk team intern Petani Kode)
 
 *Note: Rewards jenis lainnya coming soon!*
 
-# Ketentuan Content Challenge
+## 📜 Ketentuan Content Challenge
 
 1. Topik artikel seputar: coding, programming, programmer, IT, dan topik yang masih terkait;
 2. Panjang artikel minimal 800 kata, maksimal bebas. Semakin panjang semakin bagus;
 3. Disarankan untuk melengkapi artikel dengan *image*, *chart*, *tabel*, ataupun *video yang relevan* dengan topik yang kamu bahas.
 4. Tulisan original karyamu sendiri, bukan hasil copas dan belum pernah diterbitkan di media manapun.
 
-# Contoh Ide Topik Tulisan
+## 💡 Contoh Ide Topik Tulisan
 
 - Tutorial membuat landing page dengan Tailwind
 - Tutorial membuat Dark Theme dengan Tailwind
@@ -48,7 +48,7 @@ Yuk nulis mulai dari sekarang!
 - 9 Hal yang Harus dipelajari Frontend Developer
 - dll.
 
-# Siap untuk Menulis?
+## 🔥 Siap untuk Menulis?
 
 Berikut ini alur submit konten ke Petani Kode:
 
@@ -61,6 +61,6 @@ Berikut ini alur submit konten ke Petani Kode:
 
 Note: Link Group Telegram akan kamu dapatkan saat mendaftar challenge.
 
-# Punya pertanyaan?
+## 📬 Punya pertanyaan?
 
-Sampaikan melalui [issues repository ini](https://github.com/petanikode/content-challenge/issues).
+Sampaikan melalui [issues repository ini](https://github.com/petanikode/content-challenge/issues) atau kirim email ke `info@petanikode.com`.
