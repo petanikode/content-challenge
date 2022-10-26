@@ -46,6 +46,9 @@ Yuk nulis mulai dari sekarang!
 - Membuat Aplikasi TODO List dengan Reactjs
 - 7 Tips cara mengatur waktu sebagai programmer freelance
 - 9 Hal yang Harus dipelajari Frontend Developer
+- Cerita Pengalaman Petama Belajar Pemrograman
+- Review Buku IT atau Pemrograman
+- Tips menjadi Mahasiswa IT agar bisa jadi Programmer Andal
 - dll.
 
 ## 🔥 Siap untuk Menulis?
