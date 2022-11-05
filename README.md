@@ -6,14 +6,6 @@ Tulis 3 artikel, lalu pubilsh di Petani Kode, dan dapatkan reward berupa Swag da
 
 Challenge ini dimulai tanggal 01 Oktober 2022 dan akan berakhir sampai waktu yang belum ditentukan, selama reward masih tersedia. 🤩
 
-Untuk saat ini:
-
-```
-Reward terbatas untuk 10 orang, siapa cepat dia dapat!
-
-Traktiran ticket idsecconf 2022 (khusus untuk tim intern Petani Kode)
-```
-
 Yuk nulis mulai dari sekarang!
 
 ## 😍 Manfaat Ikut Challenge
@@ -27,8 +19,8 @@ Yuk nulis mulai dari sekarang!
 
 ## 🎁 Rewards
 
-- 3 artikel: Kaos & Sticker Petani Kode
-- 5 artikel: Tiket idsecconf (khusus untuk team intern Petani Kode)
+- 3 artikel: Kaos & Sticker Petani Kode (sisa 10)
+- ~5 artikel: Tiket idsecconf 2022 untuk team intern Petani~ (habis)
 
 *Note: Rewards jenis lainnya coming soon!*
 
